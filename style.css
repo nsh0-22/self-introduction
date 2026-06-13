@@ -1,4 +1,10 @@
 h1 {
-    font-size: 64px;
+    font-size: 48px;
+    color: #051dce;
+    border: 3px solid #051dce;
+}
+
+p {
+    font-size: 28px;
     color: #051dce;
 }

@@ -2,9 +2,16 @@ h1 {
     font-size: 48px;
     color: #051dce;
     border-bottom: 3px solid #051dce;
+    letter-spacing: 3px;
 }
 
 p {
     font-size: 28px;
     color: #051dce;
+}
+
+ul {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
 }

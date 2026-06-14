@@ -1,6 +1,7 @@
 h1 {
     font-size: 48px;
     color: #051dce;
+    display: inline-block;
     border-bottom: 3px solid #051dce;
     letter-spacing: 3px;
 }

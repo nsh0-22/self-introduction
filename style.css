@@ -1,8 +1,6 @@
 h1 {
-    font-size: 48px;
-    color: #051dce;
-    display: inline-block;
-    border-bottom: 3px solid #051dce;
+    font-size: 64px;
+    color: #ffff;
     letter-spacing: 3px;
 }
 
@@ -12,12 +10,12 @@ header {
 }
 
 p {
-    font-size: 28px;
-    color: #051dce;
+    font-size: 42px;
+    color: #ffff;
 }
 
 ul {
-    font-size: 20px;
+    font-size: 54px;
     font-weight: bold;
-    padding-top: 20px;
+    padding-top: 40px;
 }

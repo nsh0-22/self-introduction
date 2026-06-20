@@ -7,15 +7,18 @@ h1 {
     font-size: 64px;
     color: #0626f6;
     letter-spacing: 3px;
+    text-align: center;
 }
 
 p {
     font-size: 42px;
     color: #0626f6;
+    text-align: center;
 }
 
 ul {
     font-size: 54px;
     font-weight: bold;
     padding-top: 40px;
+    text-align: center;
 }

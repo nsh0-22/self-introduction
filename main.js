@@ -1,18 +1,15 @@
 $(function () {
 
-  function moveHeader() {
+  $(function () {
+
+  function move() {
     $(".header-image")
-      .animate(
-        { left: "40px" },
-        5000
-      )
-      .animate(
-        { left: "0px" },
-        5000,
-        moveHeader
-      );
+      .css("left", "-100px")
+      .animate({ left: "100%" }, 15000, "linear", move);
   }
 
-  moveHeader();
+  move();
+
+});
 
 });

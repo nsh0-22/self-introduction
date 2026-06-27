@@ -3,6 +3,11 @@ img {
     height: auto;
 }
 
+.header-image {
+  position: relative;
+  left: 0;
+}
+
 h1 {
     font-size: 64px;
     color: #0626f6;

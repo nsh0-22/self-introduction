@@ -1,7 +1,4 @@
 $(function () {
-
-  $(function () {
-
   function move() {
     $(".header-image")
       .css("left", "-100px")
@@ -10,18 +7,17 @@ $(function () {
 
   move();
 
-});
-
-});
-
-$("#work").click(function(){
-
+  $("#work").click(function(){
   $("#work-modal").fadeIn();
+});
 
+  $("#hobby").click(function () {
+  $("#hobby-modal").fadeIn();
 });
 
 $(".close").click(function(){
-
   $(".modal").fadeOut();
+});
 
 });
+

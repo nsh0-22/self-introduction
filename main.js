@@ -13,3 +13,15 @@ $(function () {
 });
 
 });
+
+$("#work").click(function(){
+
+  $("#work-modal").fadeIn();
+
+});
+
+$(".close").click(function(){
+
+  $(".modal").fadeOut();
+
+});

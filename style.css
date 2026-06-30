@@ -1,9 +1,11 @@
 h1 {
     font-size: 64px;
-    color: #0626f6;
+    color: black;
     letter-spacing: 3px;
     text-align: center;
     font-family: "Savoye LET", "Comic Sans MS", cursive;
+    padding-top: 60px;
+    -webkit-text-stroke: 2px white;
 }
 
 body {
@@ -14,7 +16,8 @@ body {
 
 p {
     font-size: 42px;
-    color: #0626f6;
+    color: black;
+    -webkit-text-stroke: 2px white;
     text-align: center;
 }
 
@@ -23,6 +26,7 @@ p {
     color:black;
     font-weight: bold;
     text-align: center;
+    -webkit-text-stroke: 2px white;
 }
 
 .aboutme {
@@ -31,6 +35,7 @@ p {
     text-align: center;
     color:black;
     padding-top: 50px;
+    -webkit-text-stroke: 2px white;
 }
 
 ul {

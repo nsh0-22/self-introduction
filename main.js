@@ -1,6 +1,5 @@
 $(function () {
 
-  move();
   $("#work").click(function(){
   $("#work-modal").fadeIn();
 });

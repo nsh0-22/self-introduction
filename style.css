@@ -64,6 +64,12 @@ ul {
   border-radius: 10px;
 }
 
+.modal-content p {
+  font-size: 24px;
+  color: black;
+  text-align: center;
+}
+
 .close {
   float: right;
   cursor: pointer;

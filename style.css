@@ -18,7 +18,7 @@ body {
   z-index: 1;
   height: 100%;
   width: 60%;
-  background-color: gray;
+  background-color: #FFF3B8;
   opacity: 0.6;
   left: 50%;
   transform: translateX(-50%);
@@ -38,7 +38,7 @@ p {
 }
 
 .introduction {
-    font-size: 42px;
+    font-size: 24px;
     color:black;
     font-weight: bold;
     text-align: center;

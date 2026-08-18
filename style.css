@@ -1,11 +1,10 @@
 h1 {
     font-size: 64px;
-    color: black;
+    color: white;
     letter-spacing: 3px;
     text-align: center;
     font-family: "Savoye LET", "Comic Sans MS", cursive;
     padding-top: 60px;
-    -webkit-text-stroke: 2px white;
 }
 
 body {
@@ -33,12 +32,11 @@ p {
     font-size: 42px;
     color: black;
     font-weight: bold;
-    -webkit-text-stroke: 2px white;
     text-align: center;
 }
 
 .introduction {
-    font-size: 21px;
+    font-size: 20px;
     color:black;
     font-weight: bold;
     text-align: center;

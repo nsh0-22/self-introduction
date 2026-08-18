@@ -42,7 +42,6 @@ p {
     color:black;
     font-weight: bold;
     text-align: center;
-    -webkit-text-stroke: 2px white;
 }
 
 .aboutme {
@@ -51,7 +50,6 @@ p {
     text-align: center;
     color:black;
     padding-top: 50px;
-    -webkit-text-stroke: 2px white;
 }
 
 ul {

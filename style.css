@@ -61,6 +61,7 @@ ul {
 .aboutwork {
   width: fit-content;
   display: block;
+  margin: 0 auto;
   transition: transform 0.5s;
   cursor: default;
 }
@@ -72,6 +73,7 @@ ul {
 .abouthobby {
   width: fit-content;
   display: block;
+  margin: 0 auto;
   transition: transform 0.5s;
   cursor: default;
 }

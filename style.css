@@ -37,7 +37,7 @@ p {
 
 .introduction {
     font-size: 20px;
-    color: black;
+    color:black;
     font-weight: bold;
     text-align: center;
 }
@@ -46,7 +46,7 @@ p {
     font-size: 54px;
     font-weight: bold;
     text-align: center;
-    color: black;
+    color:black;
     padding-top: 50px;
 }
 
@@ -56,6 +56,22 @@ ul {
     padding-top: 40px;
     text-align: center;
     list-style: none;
+}
+
+.aboutwork {
+  transition: all 0.5s;
+}
+
+.aboutwork:hover {
+  transform: scale(1.2);
+}
+
+.abouthobby {
+  transition: all 0.5s;
+}
+
+.abouthobby:hover {
+  transform: scale(1.2);
 }
 
 .modal {

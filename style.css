@@ -59,7 +59,9 @@ ul {
 }
 
 .aboutwork {
-  transition: all 0.5s;
+  display: inline-block;
+  transition: transform 0.5s;
+  cursor: default;
 }
 
 .aboutwork:hover {
@@ -67,7 +69,9 @@ ul {
 }
 
 .abouthobby {
-  transition: all 0.5s;
+  display: inline-block;
+  transition: transform 0.5s;
+  cursor: default;
 }
 
 .abouthobby:hover {

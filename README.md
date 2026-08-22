@@ -9,8 +9,3 @@ https://nsh0-22.github.io/self-introduction/
 - HTML
 - CSS
 - JavaScript
-
-## 進捗メモ
-[x]ver.1 の公開
-[ ] スマホでの見た目を修正
-[ ] ・・・

@@ -11,6 +11,18 @@ h1 {
   h1 {
     font-size: 24px;
   }
+
+  p {
+    font-size: 18px;
+  }
+
+  .introduction {
+    font-size: 10px;
+  }
+
+  .aboutme {
+    font-size: 18px;
+  }
 }
 
 body {

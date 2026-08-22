@@ -7,6 +7,12 @@ h1 {
     padding-top: 60px;
 }
 
+@media (max-width: 600px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
 body {
   background-image: url("image-background.png");
   background-size: cover;
